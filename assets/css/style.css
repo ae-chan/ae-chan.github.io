@@ -147,7 +147,7 @@ a:hover {
 .title-a {
   font-size: 3rem;
   font-weight: bold;
-  text-transform: uppercase;
+  
 }
 
 .subtitle-a {
@@ -461,8 +461,7 @@ a:hover {
 
 .navbar-b.navbar-trans .nav-link, .navbar-b.navbar-reduce .nav-link {
   color: #fff;
-  text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .navbar-b.navbar-trans .nav-link:before, .navbar-b.navbar-reduce .nav-link:before {
@@ -692,7 +691,6 @@ a:hover {
 }
 
 .intro-single .intro-title {
-  text-transform: uppercase;
   font-size: 3rem;
 }
 
@@ -763,7 +761,6 @@ a:hover {
 
 .service-box .s-title {
   font-size: 1.4rem;
-  text-transform: uppercase;
   text-align: center;
   padding: .4rem 0;
 }
@@ -878,7 +875,6 @@ a:hover {
 
 .testimonial-box .author {
   color: #fff;
-  text-transform: uppercase;
   font-weight: 600;
   margin: 1rem 0;
   display: block;
@@ -1063,7 +1059,6 @@ a:hover {
 .card-blog .card-category .category {
   color: #fff;
   display: inline-block;
-  text-transform: uppercase;
   font-size: .7rem;
   letter-spacing: .1px;
   margin-bottom: 0;
@@ -1197,7 +1192,6 @@ a:hover {
   font-weight: 600;
   border-left: 5px solid #0078ff;
   padding-left: 15px;
-  text-transform: uppercase;
   margin-bottom: 1.5rem;
 }
 
